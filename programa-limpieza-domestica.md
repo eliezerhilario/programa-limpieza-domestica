@@ -1,11 +1,8 @@
 ---
 layout: default
-title: Programa de limpieza doméstica
 description: Programa semanal de limpieza, organización y preparación de alimentos.
 permalink: /programa/
 ---
-
-# Programa de limpieza doméstica
 
 Consulta las labores de cada día y revisa los oficios diarios antes de terminar la jornada.
 
