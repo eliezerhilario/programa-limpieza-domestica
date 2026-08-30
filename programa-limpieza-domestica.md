@@ -44,7 +44,7 @@ Consulta las labores de cada día y revisa los oficios diarios antes de terminar
 - Cuidar el mobiliario: trastes de la cocina, muebles, mesas, utensilios de limpieza, etc.
 - Comunicar cuando se rompe o se daña algo.
 
-<section markdown="1" style="color: #9f1d25; background: #fff0f0; padding: 1rem; border-radius: 0.75rem;">
+<section markdown="1" style="color: #9f1d25;">
 
 ## Observaciones
 
