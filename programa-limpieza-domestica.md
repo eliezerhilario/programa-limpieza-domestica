@@ -59,21 +59,3 @@ Consulta las labores de cada día y revisa los oficios diarios antes de terminar
 - La gaveta de abajo de los vegetales de la nevera se mantiene sucia.
 
 </section>
-
-<style>
-@media (max-width: 700px) {
-  table, tbody, tr, td { display: block; width: 100%; }
-  table { border: 0; }
-  thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
-  tr { margin-bottom: 1rem; border: 1px solid rgba(127, 127, 127, 0.4); border-radius: 0.5rem; overflow: hidden; }
-  td { min-height: 3rem; padding: 0.75rem 1rem; border: 0; border-bottom: 1px solid rgba(127, 127, 127, 0.3); }
-  td:last-child { border-bottom: 0; }
-  td:first-child { background: rgba(127, 127, 127, 0.18); font-size: 1.1rem; font-weight: 700; }
-  td:not(:first-child)::before { display: block; margin-bottom: 0.25rem; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; }
-  td:nth-child(2)::before { content: "Lunes"; }
-  td:nth-child(3)::before { content: "Martes"; }
-  td:nth-child(4)::before { content: "Miércoles"; }
-  td:nth-child(5)::before { content: "Jueves"; }
-  td:nth-child(6)::before { content: "Sábado"; }
-}
-</style>
