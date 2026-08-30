@@ -46,7 +46,7 @@ Consulta las labores de cada día y revisa los oficios diarios antes de terminar
 
 <section markdown="1" style="color: #9f1d25; background: #fff0f0; padding: 1rem; border-radius: 0.75rem;">
 
-## Observaciones importantes
+## Observaciones
 
 - Se están dañando las cosas de hacer jugo y los quesos.
 - Se están dañando víveres por no usarse a tiempo.
