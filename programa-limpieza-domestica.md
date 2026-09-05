@@ -14,6 +14,11 @@ Consulta las labores de cada día y revisa los oficios diarios antes de terminar
 - Desde el lunes a las 6:00 p. m. hasta el jueves a las 6:00 p. m.
 - Los sábados de 8:00 a. m. a 6:00 p. m.
 
+## Oficios diarios
+
+- Cocinar, hacer cena, fregar y recoger los trastes.
+- Mantener mesas y área de cocina higiénicas (mesa de comedor y de la terraza, superficies de apoyo en la cocina y el lavadero: Tablas, lavadoras, etc.).
+
 ## Cronograma semanal
 
 | Día | Mañana | Tarde |
@@ -23,11 +28,6 @@ Consulta las labores de cada día y revisa los oficios diarios antes de terminar
 | **Miércoles** | • Lavar la ropa<br>• Limpiar los gabinetes en construcción | • Recoger y ordenar la ropa (enseñar a los niños)<br>• Planchar la ropa |
 | **Jueves** | • Limpieza general de la casa| • Limpiar hierros y ventanas 1er nivel (intersemanal)<br>• Limpiar escalera del techo (intersemanal)<br>• Limpiar sucios puntuales en las paredes (cada 3 semanas) |
 | **Sábado** | • Limpieza general de la casa | • Limpiar zafacones y áreas de zafacones. |
-
-## Oficios diarios
-
-- Cocinar, hacer cena, fregar y recoger los trastes.
-- Mantener mesas y área de cocina higiénicas (mesa de comedor y de la terraza, superficies de apoyo en la cocina y el lavadero: Tablas, lavadoras, etc.).
 
 ## Reglas generales
 
