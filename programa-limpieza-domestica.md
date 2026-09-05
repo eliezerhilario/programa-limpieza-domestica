@@ -20,8 +20,8 @@ Consulta las labores de cada día y revisa los oficios diarios antes de terminar
 | --- | --- | --- |
 | **Lunes** | No trabaja | • Limpiar zafacones y áreas de zafacones. |
 | **Martes** | • Limpieza general de la casa<br>• Organizar y limpiar la nevera | • Barrer acera del frente de la casa<br>• Limpiar hierros y ventanas 2do nivel (intersemanal)<br>• Limpieza abanicos (intersemanal) |
-| **Miércoles** | • Lavar la ropa<br>• Limpiar los gabinetes en construcción | • Recoger y ordenar la ropa (enseñar a los niños) |
-| **Jueves** | • Limpieza general de la casa<br>• Planchar la ropa | • Limpiar hierros y ventanas 1er nivel (intersemanal)<br>• Limpiar escalera del techo (intersemanal)<br>• Limpiar sucios puntuales en las paredes (cada 3 semanas) |
+| **Miércoles** | • Lavar la ropa<br>• Limpiar los gabinetes en construcción | • Recoger y ordenar la ropa (enseñar a los niños)<br>• Planchar la ropa |
+| **Jueves** | • Limpieza general de la casa| • Limpiar hierros y ventanas 1er nivel (intersemanal)<br>• Limpiar escalera del techo (intersemanal)<br>• Limpiar sucios puntuales en las paredes (cada 3 semanas) |
 | **Sábado** | • Limpieza general de la casa | • Limpiar zafacones y áreas de zafacones. |
 
 ## Oficios diarios
@@ -50,6 +50,7 @@ Consulta las labores de cada día y revisa los oficios diarios antes de terminar
 
 - Se están dañando las cosas de hacer jugo y los quesos.
 - Se están dañando víveres por no usarse a tiempo.
+- Cuando sean muchos plátanos y guineos, se deben meter a la nevera para que no se dañen.
 - Se están acumulando varias porciones de carnes cocinadas en la nevera.
 - Se están dañando comidas cocinadas guardadas en la nevera.
 - Al parecer se están botando comidas que sobran: ensaladas y carne que Cristy trae.
